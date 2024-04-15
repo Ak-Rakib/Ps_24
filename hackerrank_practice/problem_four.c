@@ -1,13 +1,17 @@
 #include<stdio.h>
 int main()
 {
-    int A = 100;
+    int A;
+    scanf("%d", &A);
     printf("%d\n", A);
-    long long int B = 1234567891234567;
+    long long int B;
+    scanf("%lld", &B);
     printf("%lld\n", B);
-    float C = 23.5675;
+    float C;
+    scanf("%f", &C);
     printf("%0.2f\n", C);
-    char D = 'A';
+    char D;
+    scanf("%c", &D);
     printf("%c", D);
     return 0;
 }
