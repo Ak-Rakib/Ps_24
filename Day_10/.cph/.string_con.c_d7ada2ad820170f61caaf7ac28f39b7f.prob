@@ -1,0 +1,1 @@
+{"name":"Local: string_con","url":"d:\\Learning\\Phitron\\Day_10\\string_con.c","tests":[{"id":1714988214527,"input":"apple orange","output":"appleorange orange"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Learning\\Phitron\\Day_10\\string_con.c","group":"local","local":true}
