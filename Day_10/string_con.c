@@ -4,6 +4,8 @@ int main()
 {
     char a[200], b[100];
     scanf("%s %s", a,b);
+
+    // using building function
     strcat(a,b);
     printf("%s %s", a,b);
 
